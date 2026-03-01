@@ -1,84 +1,108 @@
-🚀 Flutter Development Intern Task – Week 1
-📱 Login UI & Navigation App
-📌 Overview
+---
+
+# 📘 WEEK 1 – README.md
+
+## 🚀 Flutter Development Intern Task – Week 1
+
+### 📱 Login UI & Navigation App
+
+---
+
+## 📌 Overview
 
 This project demonstrates basic Flutter development concepts including:
 
-Flutter project setup
-
-UI building using core widgets
-
-Form validation
-
-Navigation between screens
+* Flutter project setup
+* UI building using core widgets
+* Form validation
+* Navigation between screens
 
 The app contains a Login Screen and navigates to a Home Screen upon successful validation.
 
-🎯 Features
+---
 
-📧 Email TextFormField with validation
+## 🎯 Features
 
-🔐 Password TextFormField with validation
+* 📧 Email TextFormField with validation
+* 🔐 Password TextFormField with validation
+* 🔎 Form validation using `GlobalKey<FormState>`
+* 🔄 Navigation using `Navigator.push()`
+* 🏠 Separate Home Screen
+* 📐 UI structured using Column, Row, Container, and Padding
 
-🔎 Form validation using GlobalKey<FormState>
+---
 
-🔄 Navigation using Navigator.push()
+## 🛠 Technologies Used
 
-🏠 Separate Home Screen
+* Flutter
+* Dart
+* Material Design Widgets
 
-📐 UI structured using Column, Row, Container, and Padding
+---
 
-🛠 Technologies Used
+## 📂 Project Structure
 
-Flutter
-
-Dart
-
-Material Design Widgets
-
-📂 Project Structure
+```id="w1structure"
 lib/
  ├── main.dart
  ├── login_screen.dart
  └── home_screen.dart
-▶ How to Run the Project
+```
 
-Clone the repository:
+---
 
+## ▶ How to Run the Project
+
+1. Clone the repository:
+
+```bash id="w1clone"
 git clone <your-repo-link>
+```
 
-Navigate to project folder:
+2. Navigate to project folder:
 
+```bash id="w1cd"
 cd project-name
+```
 
-Get dependencies:
+3. Get dependencies:
 
+```bash id="w1pubget"
 flutter pub get
+```
 
-Run the app:
+4. Run the app:
 
+```bash id="w1run"
 flutter run
-🧠 Learning Outcomes
+```
 
-Understanding Flutter widget tree
+---
 
-Managing form validation
+## 🧠 Learning Outcomes
 
-Handling user input
+* Understanding Flutter widget tree
+* Managing form validation
+* Handling user input
+* Navigating between screens
+* Structuring basic Flutter apps
 
-Navigating between screens
+---
 
-Structuring basic Flutter apps
-
-📸 Screenshots (Optional but Recommended)
+## 📸 Screenshots (Optional but Recommended)
 
 Add:
 
-Login Screen
+* Login Screen
+* Home Screen
 
-Home Screen
+---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Syed Hasnat Ali
+**Syed Hasnat Ali**
 Flutter Development Intern
+
+---
+
+---
