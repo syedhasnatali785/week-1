@@ -1,17 +1,84 @@
-# myapp
+🚀 Flutter Development Intern Task – Week 1
+📱 Login UI & Navigation App
+📌 Overview
 
-A new Flutter project.
+This project demonstrates basic Flutter development concepts including:
 
-## Getting Started
+Flutter project setup
 
-This project is a starting point for a Flutter application.
+UI building using core widgets
 
-A few resources to get you started if this is your first Flutter project:
+Form validation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Navigation between screens
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# InternShip-Project-Remote
+The app contains a Login Screen and navigates to a Home Screen upon successful validation.
+
+🎯 Features
+
+📧 Email TextFormField with validation
+
+🔐 Password TextFormField with validation
+
+🔎 Form validation using GlobalKey<FormState>
+
+🔄 Navigation using Navigator.push()
+
+🏠 Separate Home Screen
+
+📐 UI structured using Column, Row, Container, and Padding
+
+🛠 Technologies Used
+
+Flutter
+
+Dart
+
+Material Design Widgets
+
+📂 Project Structure
+lib/
+ ├── main.dart
+ ├── login_screen.dart
+ └── home_screen.dart
+▶ How to Run the Project
+
+Clone the repository:
+
+git clone <your-repo-link>
+
+Navigate to project folder:
+
+cd project-name
+
+Get dependencies:
+
+flutter pub get
+
+Run the app:
+
+flutter run
+🧠 Learning Outcomes
+
+Understanding Flutter widget tree
+
+Managing form validation
+
+Handling user input
+
+Navigating between screens
+
+Structuring basic Flutter apps
+
+📸 Screenshots (Optional but Recommended)
+
+Add:
+
+Login Screen
+
+Home Screen
+
+👨‍💻 Author
+
+Syed Hasnat Ali
+Flutter Development Intern
